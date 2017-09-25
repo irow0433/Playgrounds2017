@@ -24,6 +24,10 @@ myName = "Isaac"
 print(myName)
 //myName = soup
 //can't assign into a let once assigned
+let mySentence :String
+mySentence = "This is a test"
+print(mySentence)
+
 
 
 
