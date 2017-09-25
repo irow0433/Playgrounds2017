@@ -12,7 +12,7 @@ var ramen :String
 //ramen = 7
 //var myAge :Int
 //myAge = -89
-//print(myAge)
+//rint(myAge)
 //myAge = myAge * 33421
 //var someValue = 3.1456 * 56
 //someValue = someValue * 231.1
@@ -40,6 +40,10 @@ var ramen :String
 //print(house)
 //print(AnswerTrue)
 
+//let sample = myAge * Int(someValue)
+//print(Int(3.00000000))
+//let derp = "7"
+
 var house :Bool
 var q :String
 q = "Is this my House?!"
@@ -48,7 +52,7 @@ house = true
 print("yes")
 if house == true
 {
-    print("Yay I found my house")
+    print("Yay I found my house!!!!")
 }
 
 else
